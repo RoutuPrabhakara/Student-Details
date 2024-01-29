@@ -10,8 +10,8 @@
     padding:3px;
 }
 .card{
-    width: 800px;
-    height: 800px;
+    width: 1000px;
+    height: 1000px;
     background-color: rgb(143, 131, 131);
     text-align: center;
     color: white;
@@ -19,4 +19,8 @@
     margin-bottom: 20px;
     border-radius: 10px;
     padding:20px;
+}
+Profile1{
+    width: 200px;
+    height: 200px;
 }
