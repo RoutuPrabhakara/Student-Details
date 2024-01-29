@@ -17,7 +17,7 @@ function Users({Details}){
                 <h1>{item.MajorSkills}</h1>
                 <h1>{item.OtherSkills}</h1>
                <h1>{item.Hobbies}</h1>
-                
+                <h1>{item.Experience}</h1>
             </div>
         )
       })   
