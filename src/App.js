@@ -16,6 +16,7 @@ function App(){
       passedoutyear:2020,
       skills:"python",
       MajorSkills:"Python full stock",
+      OtherSkills:"Reading",
       profile:"https://cdn2.f-cdn.com/files/download/38545966/4bce6b.jpg"
     },
     {
@@ -26,6 +27,7 @@ function App(){
       passedoutyear:2021,
       skills:"java",
       MajorSkills:"Java full stock",
+      OtherSkills:"Singing",
       profile:"https://th.bing.com/th/id/OIP.eteuNjb-uZCqYoeT3BFkvAHaE8?pid=ImgDet&w=474&h=316&rs=1"
     },
     {
@@ -36,6 +38,7 @@ function App(){
       passedoutyear:2022,
       skills:"frontend",
       MajorSkills:"React full stock",
+      OtherSkills:"cricket",
       profile:"https://th.bing.com/th/id/OIP.IoUmyjrf4VaXudyiVqv2WwHaII?pid=ImgDet&w=474&h=520&rs=1"
     }
    ]

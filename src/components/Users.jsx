@@ -15,6 +15,7 @@ function Users({Details}){
                 <h1>{item.passedoutyear}</h1>
                 <h1>{item.skills}</h1>
                 <h1>{item.MajorSkills}</h1>
+                <h1>{item.OtherSkills}</h1>
                
                 
             </div>
