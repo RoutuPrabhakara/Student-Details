@@ -1,0 +1,22 @@
+.card img{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: brown;
+    border-radius: 100px;
+    border-color: #f7eeeeb7;
+    border-width:5px;
+    border-style: solid;
+    padding:3px;
+}
+.card{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(143, 131, 131);
+    text-align: center;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding:20px;
+}
