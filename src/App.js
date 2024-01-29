@@ -15,6 +15,7 @@ function App(){
       Graduationpercentage:"98%",
       passedoutyear:2020,
       skills:"python",
+      MajorSkills:"Python full stock",
       profile:"https://cdn2.f-cdn.com/files/download/38545966/4bce6b.jpg"
     },
     {
@@ -24,6 +25,7 @@ function App(){
       Graduationpercentage:"78%",
       passedoutyear:2021,
       skills:"java",
+      MajorSkills:"Java full stock",
       profile:"https://th.bing.com/th/id/OIP.eteuNjb-uZCqYoeT3BFkvAHaE8?pid=ImgDet&w=474&h=316&rs=1"
     },
     {
@@ -33,6 +35,7 @@ function App(){
       Graduationpercentage:"88%",
       passedoutyear:2022,
       skills:"frontend",
+      MajorSkills:"React full stock",
       profile:"https://th.bing.com/th/id/OIP.IoUmyjrf4VaXudyiVqv2WwHaII?pid=ImgDet&w=474&h=520&rs=1"
     }
    ]

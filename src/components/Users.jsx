@@ -14,6 +14,7 @@ function Users({Details}){
                 <h1>{item.Graduationpercentage}</h1>
                 <h1>{item.passedoutyear}</h1>
                 <h1>{item.skills}</h1>
+                <h1>{item.MajorSkills}</h1>
                
                 
             </div>
