@@ -33,7 +33,7 @@ function App(){
       MajorSkills:"Java full stock",
       OtherSkills:"Singing",
       Hobbies:"Helping Nature ",
-      Support:"Self",
+      Support:"Help",
       Experience:".Net Developer",
       profile:"https://th.bing.com/th/id/OIP.eteuNjb-uZCqYoeT3BFkvAHaE8?pid=ImgDet&w=474&h=316&rs=1"
       
@@ -48,7 +48,7 @@ function App(){
       MajorSkills:"React full stock",
       OtherSkills:"cricket",
       Hobbies:"Whatching Movies ",
-      Support:"Self",
+      Support:"Friends support",
       Experience:"Frontend Developer",
       profile:"https://th.bing.com/th/id/OIP.IoUmyjrf4VaXudyiVqv2WwHaII?pid=ImgDet&w=474&h=520&rs=1",
       
