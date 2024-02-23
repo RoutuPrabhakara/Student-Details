@@ -19,7 +19,7 @@ function User() {
             email:formemail
         })
       try {
-        const responce = await axios.post('https://localhost:3200/api/user/create/', box)
+        const responce = await axios.post('https://eager-ruby-raincoat.cyclic.app/api/user/create/', box)
         if(responce.status == 200){
             alert("created")
         }
