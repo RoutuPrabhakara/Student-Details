@@ -1,0 +1,41 @@
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.card{
+    width: 300px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px #ccc;
+   
+}
+.card input{
+    width: 100%;
+    padding: 14px;
+    outline: none;
+    border: none;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.card input:hover{
+    background-color: #f3901e1e;
+    border: 1px solid #ff7403;
+}
+.register-btn{
+    width: 100%;
+    padding: 14px;
+    border: none;
+    background-color: #ff7403;
+    border-radius: 10px;
+    font-size: 17px;
+    box-shadow: 0px 8px 10px #ff740349;
+    margin-top: 10px;
+}
+.card h3{
+    margin-bottom: 20px;
+}

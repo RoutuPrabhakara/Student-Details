@@ -1,24 +1,40 @@
-.card img{
-    width: 100px;
-    height: 100px;
-    text-align: center;
-    background-color: brown;
-    border-radius: 100px;
-    border-color: #f7eeeeb7;
-    border-width:5px;
-    border-style: solid;
-    padding:3px;
-}
-.card{
-    width: 900px;
-    height: 900px;
-    background-color: rgb(143, 131, 131);
-    text-align: center;
-    color: white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-bottom: 20px;
-    border-radius: 10px;
-    padding:20px;
-}
+form{
+    background-image:url(https://www.utahpeoplespost.com/wp-content/uploads/2016/08/Monarch_Butterfly-e1472467629235.jpg);
+    background-size: cover;
 
- 
+}
+button{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+h1{
+    color: rgb(3, 3, 39);
+}
+h3{
+    color: rgb(26, 12, 12);
+}
+h4{
+    color: rgb(17, 4, 4);
+}
+input:hover{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(17, 204, 80);
+    border-color: rgb(9, 175, 50);
+    color: black;
+   
+
+}
+placeholder{
+    color: black;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(11, 218, 114);
+}
+.Hello{
+    text-align: right;
+    border-radius: 20px;
+}
